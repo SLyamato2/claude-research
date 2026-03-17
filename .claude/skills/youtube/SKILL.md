@@ -1,3 +1,8 @@
+---
+name: youtube
+description: YouTube上の動画を検索し、結果を3カテゴリに分類して表示する
+---
+
 # /youtube - YouTube特化検索スキル
 
 YouTube上の動画を検索し、結果を分類して表示する。

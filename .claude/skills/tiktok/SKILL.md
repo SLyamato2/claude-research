@@ -1,3 +1,8 @@
+---
+name: tiktok
+description: TikTok上の動画を検索し、結果を3カテゴリに分類して表示する
+---
+
 # /tiktok - TikTok特化検索スキル
 
 TikTok上の動画を検索し、結果を分類して表示する。

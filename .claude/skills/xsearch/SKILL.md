@@ -1,3 +1,8 @@
+---
+name: xsearch
+description: X(Twitter)上の投稿を検索し、結果を3カテゴリに分類して表示する
+---
+
 # /xsearch - X(Twitter)特化検索スキル
 
 X(Twitter)上の投稿を検索し、結果を分類して表示する。

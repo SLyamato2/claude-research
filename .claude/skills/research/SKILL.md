@@ -1,3 +1,8 @@
+---
+name: research
+description: YouTube/TikTok/X横断検索し、結果を3カテゴリに分類して表示する
+---
+
 # /research - 統合検索スキル
 
 海外のYouTube・TikTok・X(Twitter)を横断検索し、結果を分類して表示する。
