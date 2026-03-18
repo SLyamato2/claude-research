@@ -1,11 +1,11 @@
 ---
 name: research
-description: YouTube/X横断検索し、結果を3カテゴリに分類して表示する
+description: YouTube/X/技術記事サイト横断検索し、結果を3カテゴリに分類して表示する
 ---
 
 # /research - 統合検索スキル
 
-海外および日本のYouTube・X(Twitter)を横断検索し、結果を分類して表示する。
+海外および日本のYouTube・X(Twitter)・技術記事サイトを横断検索し、結果を分類して表示する。
 
 ## 使い方
 ```
@@ -18,9 +18,13 @@ description: YouTube/X横断検索し、結果を3カテゴリに分類して表
    - **英語検索**（3カテゴリすべて採用）:
      - `<英語キーワード> site:youtube.com`
      - `<英語キーワード> site:x.com OR site:twitter.com`
+     - `<英語キーワード> site:dev.to`
+     - `<英語キーワード> site:hashnode.dev OR site:hashnode.com`
    - **日本語検索**（トレンド・バズのみ採用）:
      - `<日本語キーワード> site:youtube.com`
      - `<日本語キーワード> site:x.com OR site:twitter.com`
+     - `<日本語キーワード> site:zenn.dev`
+     - `<日本語キーワード> site:note.com`
    - 日本語キーワードが渡された場合は英語に翻訳して英語検索も行う
    - 英語キーワードが渡された場合は日本語に翻訳して日本語検索も行う
 
